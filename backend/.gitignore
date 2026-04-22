@@ -1,0 +1,7 @@
+node_modules/
+.env
+backend/node_modules/
+dsa-code-vault-frontend/node_modules/
+dsa-code-vault-frontend/.env
+build/
+dist/
