@@ -13,7 +13,7 @@ export default function About() {
 
         {/* Intro */}
         <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto leading-relaxed mb-10">
-          Hello! I’m <span className="font-semibold">Krupakar Pujari</span>, a 3rd year Computer Science 
+          Hello! I’m <span className="font-semibold">Krupakar Pujari</span>, a 4th year Computer Science 
           and Engineering student at <span className="font-semibold">CMR Institute of Technology, Hyderabad</span>.
           I’m passionate about <strong>full-stack web development</strong> and 
           <strong> Data Structures & Algorithm problem solving</strong>.
